@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "780992106236",
+    "project_id": "instaram-clone-6b4bf",
+    "storage_bucket": "instaram-clone-6b4bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780992106236:android:494b6b27292a2c042a9179",
+        "android_client_info": {
+          "package_name": "kr.mappers.instargram_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780992106236-aein28941q6mmqbn19j8m2m6iihe7mjo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.mappers.instargram_clone",
+            "certificate_hash": "f68f15d6c12ea048e6fb72b86c2603a65623e912"
+          }
+        },
+        {
+          "client_id": "780992106236-l7f0vd9d0rh83sun8u4c7osj98713k9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANAjlpn2SqEhsUZOSuufTHp2ttMRwBRyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780992106236-l7f0vd9d0rh83sun8u4c7osj98713k9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
